@@ -25,3 +25,5 @@ I worked with HTML, CSS, SASS, JavaScript, Gulp, Git.
 - Hardworking
 
 ## English level - A2
+
+## Thanks for watching
