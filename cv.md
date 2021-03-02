@@ -5,6 +5,7 @@
 - email: hodackoff1995@gmail.com;
 - telegram: a_hodackov;
 - discord: wronglance (a-hodackov)#8840;
+- instagram: a-hodackov.
 
 ## Education
 
